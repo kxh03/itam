@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to our IT Asset Management (ITAM) system! This tool is designed to help Abissnet effectively manage their IT assets, streamline workflows, and ensure optimal utilization of resources.
+Welcome to our IT Asset Management (ITAM) system! This tool is designed to help Abissnet effectively manage their IT assets and ensure optimal utilization of resources.
 
 ## Features
 
